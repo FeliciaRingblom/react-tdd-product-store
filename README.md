@@ -23,6 +23,6 @@ As a user I should be able to:
 4. ### Filter the list of products by brand
 
 # Resources
-[Jest API Docs](https://facebook.github.io/jest/docs/en/api.html)
-[Shallow rendering with Enzyme](https://github.com/airbnb/enzyme/blob/master/docs/api/shallow.md)
-[Create React App CLI - Testing](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#running-tests)
+- [Jest API Docs](https://facebook.github.io/jest/docs/en/api.html)
+- [Shallow rendering with Enzyme](https://github.com/airbnb/enzyme/blob/master/docs/api/shallow.md)
+- [Create React App CLI - Testing](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#running-tests)
